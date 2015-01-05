@@ -114,8 +114,8 @@
    <text xml:lang="eng">
       <body>
          <div type="notice">
-            <pb facs="tcp:029982_0000_0FE3B251B1D98D08"/>
-            <pb facs="tcp:029982_0001_0FE3B317EF6331F0"/>
+            <pb facs="unknown:029982_0000_0FE3B251B1D98D08"/>
+            <pb facs="unknown:029982_0001_0FE3B317EF6331F0"/>
             <opener>
                <dateline>
                   <hi>BOSTON,</hi> 
@@ -131,7 +131,7 @@
          </div>
          <div type="list_of_political_doctrines">
             <list>
-               <pb facs="tcp:029982_0002_0FE3B258D9F0D6B0"/>
+               <pb facs="unknown:029982_0002_0FE3B258D9F0D6B0"/>
                <head>VOL. I.</head>
                <item>
                   <hi>Page</hi> 8. A limited Monarchy may be justly denominated a Republic.</item>
